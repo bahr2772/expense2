@@ -151,6 +151,10 @@ public class Bulider {
 					System.out.println("Have a nice day!");
 					break;
 				}
+				
+				/*
+				 * view categories only
+				 */
 
 			}else if(x == 4){
 				String exspenseCat = " ";
@@ -167,7 +171,7 @@ public class Bulider {
 
 
 				}
-
+		
 				System.out.println("Catagory:");
 				int j = 1;
 
